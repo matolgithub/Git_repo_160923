@@ -3,10 +3,10 @@ import pywhatkit
 
 
 class GlobalTest:
-    def __init__(self, phone_number="+79175955650", e_mail="matolpydev@gmail.com", mail_pswd="csszpkcslndaiita",
+    def __init__(self, phone_number="+7917*****", e_mail="******@gmail.com", mail_pswd="cs******daiita",
                  subject="Simple subject of the letter", message="Hello, testing message from the junior developer!",
-                 mail_receiver=["volodchenko1972@yandex.ru", "matolpydev@gmail.com", "89175955650@mail.ru",
-                                "volodchenko@list.ru"]):
+                 mail_receiver=["&&&&&&&&&@yandex.ru", "^^^^^^^^@gmail.com", "%%%%%%%%@mail.ru",
+                                "########@list.ru"]):
         self.phone_number = phone_number
         self.e_mail = e_mail
         self.mail_pswd = mail_pswd
